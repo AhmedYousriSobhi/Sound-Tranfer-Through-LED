@@ -11,13 +11,16 @@ This project consists of Two Main parts, The Transmitter circuit and The Recieve
 It stands for Light Emitted Diode. It can be used as a replacement of the laser . it do the same function as the laser .it cosume low power than the laser , but the range of the LED is smaller than the range of the laser.
 ![1200px-LEDs](https://user-images.githubusercontent.com/66730765/98441661-71584f80-2108-11eb-9e6a-fa28438a9a88.jpg)
 ### 2-Laser:
-The laser stands for “light amplification by stimulated emission of radiation.” Lasers work as a result of resonant effects. The output of a laser is a coherent electromagnetic field. In a coherent beam of electromagnetic energy, all the waves have the same frequency and phase. The laser transmit the information exactly the same as it get it. 
+The laser stands for “light amplification by stimulated emission of radiation.” Lasers work as a result of resonant effects. The output of a laser is a coherent electromagnetic field. In a coherent beam of electromagnetic energy, all the waves have the same frequency and phase. The laser transmit the information exactly the same as it get it.
+
 ![mini-laser-module-diode-red-dot-650nm-5v-dc-5mw-500x500](https://user-images.githubusercontent.com/66730765/98441620-2f2f0e00-2108-11eb-9db8-6398a5ae9b7a.jpg)
 ### 3-Transistor 2N2222:
 It’s a BJT transistor. Its used to make a common emitter amplifier ( it will be explained in transmitter section).
+
 ![1](https://user-images.githubusercontent.com/66730765/98441699-a5337500-2108-11eb-99b8-7aa8fcb68f8b.png)
 ### 4-LM386 audio amplifier:
 An Op-Amp is used to make an amplifier. It will be explained in receiving section.
+
 ![lm386-pin-arrangement](https://user-images.githubusercontent.com/66730765/98441722-d01dc900-2108-11eb-90f3-b45412ad1e1f.jpg)
 ### 5-Capcaitors.
 ### 6-Resistors and Potentiometer.
