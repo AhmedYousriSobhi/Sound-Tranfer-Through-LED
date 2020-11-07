@@ -19,3 +19,22 @@ I tried to update the circuits to reduce the number of batteries and be easier t
 
 ### The Reciever Circuit V2:
 ![DSC_3703](https://user-images.githubusercontent.com/66730765/98440498-b7f67b80-2101-11eb-964d-5a7bcf1faea5.jpg)
+
+## Hardware Connection on BreadBoard:
+![DSC_3712](https://user-images.githubusercontent.com/66730765/98441313-250c1000-2106-11eb-9a05-ed37baee31ea.jpg)
+
+### The Transmitter Circuit V2 on BreadBoard:
+![DSC_3708](https://user-images.githubusercontent.com/66730765/98441343-4ff66400-2106-11eb-8f4b-3434b8e6b342.jpg)
+
+### The Reciever Circuit V2 on BreadBoard:
+![DSC_3710](https://user-images.githubusercontent.com/66730765/98441358-66042480-2106-11eb-90c6-ef8c4b5dd7a4.jpg)
+
+### Full Circuit Connection:
+![IMG-20201106-WA0010](https://user-images.githubusercontent.com/66730765/98441375-80d69900-2106-11eb-9c2d-438ee0ebbe3b.jpg)
+
+## Life Photos of the Project:
+### LED emitted light is not directed toward the LDR:
+![DSC_3699](https://user-images.githubusercontent.com/66730765/98441396-a663a280-2106-11eb-955e-36d74d2ee43c.jpg)
+### LED emitted light is directed toward the LDR:
+![DSC_3700](https://user-images.githubusercontent.com/66730765/98441398-a82d6600-2106-11eb-953f-276cd8b42be1.jpg)
+
