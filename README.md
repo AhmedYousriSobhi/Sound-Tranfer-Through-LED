@@ -33,8 +33,8 @@ I tried to update the circuits to reduce the number of batteries and be easier t
 ![IMG-20201106-WA0010](https://user-images.githubusercontent.com/66730765/98441375-80d69900-2106-11eb-9c2d-438ee0ebbe3b.jpg)
 
 ## Life Photos of the Project:
-### LED emitted light is not directed toward the LDR:
-![DSC_3699](https://user-images.githubusercontent.com/66730765/98441396-a663a280-2106-11eb-955e-36d74d2ee43c.jpg)
 ### LED emitted light is directed toward the LDR:
+![DSC_3699](https://user-images.githubusercontent.com/66730765/98441396-a663a280-2106-11eb-955e-36d74d2ee43c.jpg)
+### LED emitted light is not directed toward the LDR:
 ![DSC_3700](https://user-images.githubusercontent.com/66730765/98441398-a82d6600-2106-11eb-953f-276cd8b42be1.jpg)
 
