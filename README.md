@@ -27,6 +27,9 @@ An Op-Amp is used to make an amplifier. It will be explained in receiving sectio
 ### 7-9V Battery.
 ### 8- Wires
 
+##Schematic of Project on Proteus simulation:
+![schemit](https://user-images.githubusercontent.com/66730765/98443325-37407b00-2113-11eb-83fe-e9ee6ed55f0a.jpg)
+
 ## The Transmitter Circuit V1 Schematic schetch:
 ![DSC_0002](https://user-images.githubusercontent.com/66730765/98441227-a0b98d00-2105-11eb-8502-44b6a0376194.jpg)
 
